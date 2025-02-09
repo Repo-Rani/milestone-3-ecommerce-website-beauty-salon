@@ -3,8 +3,7 @@ import Slider from "react-slick";
 import NextArrow from "./NextArrow";
 import PrevArrow from "./PrevArrow";
 import { shopallData } from "../../data/data";
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
+
 import CardSlider from "./CardSlider";
 
 const CardSliders = () => {
